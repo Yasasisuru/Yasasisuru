@@ -1,4 +1,4 @@
-![MasterHead]( https://3fc4ed44-3fbc-419a-97a1-a29742511391.selcdn.net/coub_storage/coub/simple/cw_timeline_pic/6b441aa1ea2/efb50c8e7ac34e42d6dfa/med_1637273853_image.jpg)
+![MasterHead](https://github.com/Yasasisuru/yasasisuru/blob/main/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Yasas Isuru</h1>
 
