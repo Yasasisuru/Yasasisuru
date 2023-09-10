@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Yasas Isuru</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasasisuru&label=Profile%20views&color=0e75b6&style=flat" alt="yasasisuru" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yasas_isuru_" target="blank"><img src="https://img.shields.io/twitter/follow/yasas_isuru_?logo=twitter&style=for-the-badge" alt="yasas_isuru_" /></a> </p>
 
