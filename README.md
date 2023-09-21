@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Yasasisuru/yasasisuru/blob/main/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?raw=true)
 
-<h1 align="center">Hi 👋, I'm Yasas Isuru</h1>
+<h1 align="center">ℍ𝕚 👋, 𝕀'𝕞  𝚈𝚊𝚜𝚊𝚜 𝙸𝚜𝚞𝚛𝚞 </h1>
 
 
 <p align="left"> <a href="https://twitter.com/yasas_isuru_" target="blank"><img src="https://img.shields.io/twitter/follow/yasas_isuru_?logo=twitter&style=for-the-badge" alt="yasas_isuru_" /></a> </p>
